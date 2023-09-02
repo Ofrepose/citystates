@@ -1,0 +1,27 @@
+{
+    "name": "@ofrepose/citystates",
+    "version": "1.0.0",
+    "description": "A package for working with city and state data",
+    "license": "MIT",
+    "repository": "ofrepose/CityStates",
+    "main": "index.js",
+    "keywords": [
+        "npm",
+        "package",
+        "ofrepose",
+        "map",
+        "mapping",
+        "geo",
+        "city",
+        "state",
+        "location",
+        "geographic data",
+        "state code",
+        "city lookup",
+        "city information",
+        "state information",
+        "geographic coordinates",
+        "city and state data"
+    ],
+    "author": "Daniel"
+}
